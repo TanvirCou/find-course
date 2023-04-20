@@ -1,0 +1,16 @@
+.cart {
+    padding-left: 20px;
+}
+.cart h3{
+    text-align: center;
+    padding-left: 40px;
+}
+.cart button{
+    background-color: goldenrod;
+    width: 120px;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}

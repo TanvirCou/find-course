@@ -1,0 +1,17 @@
+.course{
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+.course h5{
+    font-size: 20px;
+}
+.course button{
+    background-color: goldenrod;
+    width: 120px;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}

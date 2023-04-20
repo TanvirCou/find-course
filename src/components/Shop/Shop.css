@@ -1,0 +1,7 @@
+.shop-details{
+    display: flex;
+}
+.course-details{
+    width: 80%;
+    border-right: 1px solid lightgrey;
+}
